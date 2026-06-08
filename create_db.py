@@ -20,6 +20,17 @@ ORDER BY RES_CNT DESC
 LIMIT 10;
 """
 
+
+# Add this after your existing query
+query_types = """
+SELECT NAME, 
+       SING_FAMLY as single_family_units, 
+       APARTMENT as apartment_units
+FROM communities 
+ORDER BY (SING_FAMLY + APARTMENT) DESC
+LIMIT 10;
+"""
+
 result = pd.read_sql_query(query, conn)
 print("--- Top 10 Communities by Population ---")
 print(result)
