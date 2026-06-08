@@ -44,5 +44,20 @@ Follow these steps to reproduce the analysis on your machine:
 *![Bar chart: Top 10 Calgary communities ranked by resident-to-dwelling density. Leading communities include Scarboro (2.75), Bonavista Downs (2.46), and Springbank Hill (3.00). Seven communities reached the maximum density ratio of 3.00, while Greenwood/Greenbriar showed the lowest among the top 10 at 1.72 residents per dwelling.](density_chart.png)*
 
 ## 👨‍💻 Author
-**Md Abdul Ahad**  
-Aspiring Data Analyst | MSc in Big Data Analytics
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/a4ahad">
+        <img src="https://github.com/a4ahad.png" width="100px;" alt="Md Abdul Ahad"/>
+        <br />
+        <sub><b>Md Abdul Ahad</b></sub>
+      </a>
+    </td>
+    <td align="left" style="padding-left: 20px;">
+      <b>Aspiring Data Analyst</b><br>
+      MSc in Big Data Analytics<br>
+      <i>Passionate about turning raw data into actionable insights for urban planning.</i>
+    </td>
+  </tr>
+</table>
