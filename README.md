@@ -57,7 +57,9 @@ Follow these steps to reproduce the analysis on your machine:
     <td align="left" style="padding-left: 20px;">
       <b>Aspiring Data Analyst</b><br>
       MSc in Big Data Analytics<br>
-      <i>Passionate about turning raw data into actionable insights for urban planning.</i>
+      <a href="https://www.linkedin.com/in/md-abdul-ahad-62b050305/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
     </td>
   </tr>
 </table>
